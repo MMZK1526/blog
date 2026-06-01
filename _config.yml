@@ -8,8 +8,7 @@ theme: minima
 minima:
   skin: classic
 
-author:
-  name: MMZK1526
+author: MMZK1526
 
 permalink: /:year/:month/:day/:title/
 
