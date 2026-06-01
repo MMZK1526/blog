@@ -1,0 +1,20 @@
+title: MMZK1526
+description: 梦到什么说什么
+baseurl: "/blog"
+url: "https://mmzk1526.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+
+author:
+  name: MMZK1526
+
+permalink: /:year/:month/:day/:title/
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
